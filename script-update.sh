@@ -1,2 +1,2 @@
 #!/bin/bash
-echo apt update && apt install vim tree
+echo apt update && apt install vim tree jcal
